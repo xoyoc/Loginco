@@ -1,0 +1,138 @@
+.encabezado{
+  background: url(../imagens/ImagenPrincipal.jpg);
+  background-size: 100% 100%;
+  height: 100vh;
+}
+.active{
+  font-weight: bold !important;
+  color: #2AB8B4 !important;
+}
+.logotipoEncabezado >img{
+  width: 10%;
+  height: auto;
+  margin-left: 3rem;
+}
+.iconoFacebookEncabezado>img{
+  width: 20%;
+  height: auto;
+}
+.contenedorEsloganEncabezado{
+  width: 50%;
+  position: relative;
+}
+.esloganUnoEncabezado{
+  width: 65%;
+  margin-left: 3rem;
+  border: solid 3px #7E7FB6;
+  margin-top:6rem;
+  padding: .5rem;
+}
+.esloganDosEncabezado{
+  width: 60%;
+  position: absolute;
+  top: 70%;
+  left: 45%;
+  background: rgba(255, 255, 255, 0);
+  text-align: center;
+}
+.esloganDosEncabezado>h1{
+  text-transform: uppercase;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.esloganDosEncabezado>p{
+  font-size: 1.5rem;
+}
+.btn-loginco{
+  background: #00058C;
+  text-transform: uppercase;
+  font-size: .7rem;
+}
+.btn-loginco-servicios{
+  background: white;
+  color:black;
+  text-transform: uppercase;
+  border: solid 2px #7E7FB6;
+}
+.ServiciosEncabezado{
+  background-color: #2AB8B4;
+  color:white;
+  text-align: center;
+  padding:2rem 0;
+}
+.iconos-servicios>img{
+  width: 50%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+.fotoEquipo{
+
+}
+
+/* Pie de paginas */
+
+.piedePagina{
+  background-color: #00058C;
+  color:white;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.parrafoPiedepagina{
+  font-size: .8rem;
+}
+.patentesPiedepagina{
+  border-right: solid 1px white;
+}
+.logoPiedePagina{
+  width: 58%;
+}
+
+/* Pagina web Loginco */
+
+.encabezadoLoginco{
+  background: url(../imagens/Slider-Loginco.jpg);
+  background-size: 100% 100%;
+  height: 500px;
+}
+
+.logincoPoliticaCalidad{
+  background-color: #2AB8B4;
+  color:white;
+}
+
+/* Pagina web Servicios */
+
+.encabezadoServicios{
+  background: url(../imagens/Slider-Servicios.jpg);
+  background-size: 100% 100%;
+  height: 500px;
+}
+
+.servicioCotizar{
+  background-color: #2AB8B4;
+  color:white;
+}
+
+/* Pagina Web Alainzas */
+
+.encabezadoAlianzas{
+  background: url(../imagens/Slider-Alianzas.jpg);
+  background-size: 100% 100%;
+  height: 500px;
+}
+
+/* Pagina Web Blog */
+
+.encabezadoBlog{
+  background: url(../imagens/Slider-Noticias.jpg);
+  background-size: 100% 100%;
+  height: 500px;
+}
+
+/* Pagina Web Contacto */
+
+.encabezadoContacto{
+  background: url(../imagens/Slider-Contacto.jpg);
+  background-size: 100% 100%;
+  height: 500px;
+}
