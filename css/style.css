@@ -93,9 +93,10 @@
 
 .piedePagina{
   background-color: #00058C;
+  width: 100%;
   color:white;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
+  position: absolute;
 }
 .parrafoPiedepagina{
   font-size: .8rem;
@@ -106,6 +107,13 @@
 .logoPiedePagina{
   width: 58%;
 }
+
+.ondaPiepagina{
+  position: relative;
+  top: -100px;
+  left: 0;
+}
+
 
 /* Pagina web Loginco */
 
