@@ -2,6 +2,21 @@
   color:white;
 }
 
+.textoGrisClaro{
+  color:#E8E7E7;
+}
+
+.textoMorado{
+  color:#7D7FB6;
+}
+
+.textoNegrito{
+  font-weight: bold;
+}
+
+.tsize{
+  font-size:2rem;
+}
 
 .encabezado{
   background: url(../imagens/ImagenPrincipal.jpg);
