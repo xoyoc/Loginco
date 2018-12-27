@@ -18,6 +18,10 @@
   font-size:2rem;
 }
 
+.flotar{
+    position: relative;
+}
+
 .encabezado{
   background: url(../imagens/ImagenPrincipal.jpg);
   background-size: 100% 100%;
