@@ -145,6 +145,14 @@
   color:white;
 }
 
+.tituloAzul{
+  color:#2EBBB7;
+}
+
+.serviciosIconos{
+  padding-left: calc((100% - 149px)/2);
+}
+
 /* Pagina Web Alainzas */
 
 .encabezadoAlianzas{
