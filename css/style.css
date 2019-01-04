@@ -22,6 +22,10 @@
     position: relative;
 }
 
+.w-5{
+  width: 5% !important;
+}
+
 .encabezado{
   background: url(../imagens/ImagenPrincipal.jpg);
   background-size: 100% 100%;
