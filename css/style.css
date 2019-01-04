@@ -26,6 +26,19 @@
   width: 5% !important;
 }
 
+.bordeVerde{
+  border: 1px solid #2AB8B4;
+}
+
+input::placeholder{
+  font-size: .5 rem;
+}
+
+.botonVerde{
+  background-color: #2AB8B4;
+  color:white;
+}
+
 .encabezado{
   background: url(../imagens/ImagenPrincipal.jpg);
   background-size: 100% 100%;
